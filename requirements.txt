@@ -1,0 +1,15 @@
+streamlit==1.28.0
+requests==2.31.0
+python-dotenv==1.0.0
+pandas==2.1.1
+numpy==1.26.0
+pydub==0.25.1
+SpeechRecognition==3.10.0
+langdetect==1.0.9
+googletrans==4.0.0-rc1
+gtts==2.3.2
+sounddevice==0.4.6
+soundfile==0.12.1
+argparse==1.4.0
+wave==0.0.2
+google-generativeai==0.3.1 
