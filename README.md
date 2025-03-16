@@ -101,7 +101,11 @@ All API interactions are implemented using the `requests` library with support f
 - Data Storage: Local JSON
 - Audio Processing: pydub, sounddevice 
 
+## DEMO VEDIO
+
+https://github.com/user-attachments/assets/5f83f06d-4fb1-46f8-89d5-5d04180e11fa
+
 
 
 ## Demo Video
-[Watch the Video](https://raw.githubusercontent.com/Rhushya/FINALIT/main/demo/demo.mp4)
+
