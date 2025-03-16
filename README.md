@@ -104,7 +104,4 @@ All API interactions are implemented using the `requests` library with support f
 
 
 ## Demo Video
-<video width="320" height="240" controls>
-  <source src="https://github.com/Rhushya/FINALIT/main/demo" type="video/mp4">
-  
-</video>
+[Watch the Video](https://raw.githubusercontent.com/Rhushya/FINALIT/main/demo/demo.mp4)
