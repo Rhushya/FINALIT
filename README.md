@@ -59,29 +59,6 @@ The system will:
 4. Translate the response back to Kannada
 5. Transliterate the translated text to ensure proper Kannada script
 
-## Example Scripts
-
-The repository now includes two example scripts demonstrating language handling:
-
-1. **example_language_handling.py**: Shows the basic flow of language detection, translation, and transliteration using Sarvam AI.
-
-```
-python example_language_handling.py --input "Your text here"
-```
-
-2. **example_gemini_fallback.py**: Demonstrates using Google Gemini as a fallback for languages not supported by Sarvam AI.
-
-```
-python example_gemini_fallback.py --input "Your text here"
-```
-
-## Demo Script
-
-A demo script is provided to showcase the Sarvam AI API integration:
-
-```
-python demo_sarvam_api.py --mode all --text "Hello, how can I help you today?" --target-lang hi-IN
-```
 
 Available modes:
 - **translate**: Translate text
